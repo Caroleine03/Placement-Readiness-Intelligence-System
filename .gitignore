@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+.streamlit/
+test.py
+test.pdf
+test2.pdf
+g_resume.pdf
+Resume Caroleine M.docx
+student_placement_synthetic.csv
+scaler.joblib
